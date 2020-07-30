@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1>I'm Sahil Kumar</h1>
 
-<!--
-**Psyhic/Psyhic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm software engineer, web designer, web developer, open source contributor and a competetive programmer.
+Some Technologies I love working on are Java, C++, HTML CSS etc.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on many small projects.
+- 🌱 I’m currently learning web development and AIML.
+- 👯 I’m looking to collaborate on LinkedIn.
+- 🤔 I’m looking for help with web development.
+- 💬 Ask me about experience.
+- 📫 How to reach me: https://www.linkedin.com/in/psyhic/
+- 😄 CSE Student
+- ⚡ Fun fact: I am a foodie and love travelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
