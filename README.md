@@ -1,4 +1,4 @@
-<h1>I'm Sahil Kumar</h1>
+<h1>I'm Sahil Kumar a.k.a Psyhic</h1>
 
 I'm software engineer, web designer, web developer, open source contributor and a competetive programmer.
 Some Technologies I love working on are Java, C++, HTML CSS etc.
