@@ -27,6 +27,10 @@
 
 ![ Github Stats](https://github-readme-stats.vercel.app/api?username=Psyhic&show_icons=true)  <br>
 
+[twitter]: https://twitter.com/psyhic_sk
+[instagram]: https://www.instagram.com/psyhic.sk/
+[linkedin]: https://www.linkedin.com/in/psyhic/
+
 
 
 
