@@ -21,6 +21,8 @@ Some Technologies I love working on are Java, C++, HTML CSS etc.
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+![ Github Stats](https://github-readme-stats.vercel.app/api?username=Psyhic&show_icons=true)  <br>
+
 
 
 
