@@ -1,16 +1,20 @@
-<h1>I'm Sahil Kumar a.k.a Psyhic</h1>
+### Hi there, I'm Sahil - aka [Psyhic] 👋😉
 
-I'm software engineer, web designer, web developer, open source contributor and a competetive programmer.
-Some Technologies I love working on are Java, C++, HTML CSS etc.
+## I'm a CSE Student, Developer, and Competitive Programmer!
+- 🔭 I’m currently working on a AI Chatbot!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to Travel and play some computer games
 
-- 🔭 I’m currently working on many small projects.
-- 🌱 I’m currently learning web development and AIML.
-- 👯 I’m looking to collaborate on LinkedIn.
-- 🤔 I’m looking for help with web development.
-- 💬 Ask me about experience.
-- 📫 How to reach me: https://www.linkedin.com/in/psyhic/
-- 😄 CSE Student
-- ⚡ Fun fact: I am a foodie and love travelling.
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/psyhic_sk]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/psyhic/]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/psyhic.sk/]
+
+
+<br />
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
