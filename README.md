@@ -28,4 +28,8 @@ Some Technologies I love working on are Java, C++, HTML CSS etc.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Psyhic/Psyhic">
+@@ -36,27 +36,26 @@
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Psyhic&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
