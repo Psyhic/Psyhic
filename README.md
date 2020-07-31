@@ -12,4 +12,7 @@ Some Technologies I love working on are Java, C++, HTML CSS etc.
 - 😄 CSE Student
 - ⚡ Fun fact: I am a foodie and love travelling.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<Pshyhic>&theme=<THEME_NAME>" />
+
+
 
