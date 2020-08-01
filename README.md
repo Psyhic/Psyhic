@@ -1,7 +1,7 @@
 ### Hi there, I'm Sahil - aka [Psyhic] 👋😉
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyhic&label=Views&color=blue&style=plastic" alt="psyhic" /> </p>
 
-## I'm a CSE Student, Developer, and Competitive Programmer!
+## I'm a CSE Student, Developer, and Problem Solver!
 - 🔭 I’m currently working on a AI Chatbot!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
