@@ -1,12 +1,14 @@
 ### Hi there, I'm Sahil - aka [Psyhic] 👋😉
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyhic&label=Views&color=blue&style=plastic" alt="psyhic" /> </p>
 
+<img align='left' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="150">
 ## I'm a CSE Student, Developer, and Problem Solver!
 - 🔭 I’m currently working on a AI Chatbot!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel, eat lots of food and play some computer games
+<img align='right' src="https://media.giphy.com/media/IpeYSEZshTefe/giphy.gif" width="150">
 
 ### Connect with me:
 
