@@ -15,6 +15,7 @@
 [<img align="left" alt="psyhic.sk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="psyhic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="psyhic | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="psyhic | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 
 
@@ -50,6 +51,7 @@
 [instagram]: https://www.instagram.com/psyhic.sk/
 [linkedin]: https://www.linkedin.com/in/psyhic/
 [github]: https://github.com/Psyhic
+[gmail]: mailto:sahil.skr18@gmail.com
 
 
 
