@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://github.com/Psyhic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhic&theme=dark&hide_langs_below=0" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhic&layout=compact&theme=dark&hide_langs_below=0" />
 </a>
 
 
