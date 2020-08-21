@@ -37,7 +37,7 @@
 
 
 <a href="https://github.com/Psyhic">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Psyhic&show_icons=true&theme=dark&line_height=27" alt="Sahil aka Psyhic's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Psyhic&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Sahil aka Psyhic's github stats"/>
 </a>
 
 <a href="https://github.com/Psyhic">
