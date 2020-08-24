@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhic&theme=dark&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psyhic&theme=radical&hide_langs_below=1&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Psyhic&show_icons=true&theme=dark&line_height=21" alt="Sahil aka Psyhic's github stats"/>
 </p>
 
