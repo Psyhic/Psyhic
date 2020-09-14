@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning REACT and also everything. 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Travel, eat lots of food and play some computer games
+- ⚡ Fun fact: I love to Travel, eat lots of food and play some games
 
 
 ### Connect with me:
