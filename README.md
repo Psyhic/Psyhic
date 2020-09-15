@@ -1,8 +1,8 @@
 ### Hi there, I'm Sahil - aka [Psyhic] 👋😉
 
 ## I'm a CSE Student, Developer, and Problem Solver!
-- 🔭 I’m currently working on a AI Chatbot!
-- 🌱 I’m currently learning REACT and also everything. 🤣
+- 🔭 I’m currently working on a AI Chatbot and personal Portfolio!
+- 🌱 I’m currently learning MERN Stack and also everything. 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel, eat lots of food and play some games
