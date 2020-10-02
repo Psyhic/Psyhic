@@ -1,6 +1,8 @@
 ### Hi there, I'm Sahil - aka [Psyhic] 👋😉
 
 ## I'm a CSE Student, Developer, and Problem Solver!
+<img align="right" src="https://github.com/Psyhic/Psyhic/blob/master/default.png" width="125" />
+
 - 🔭 I’m currently working on a AI Chatbot and personal Portfolio!
 - 🌱 I’m currently learning MERN Stack and also everything. 🤣
 - 👯 I’m looking to collaborate with other content creators
