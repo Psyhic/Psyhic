@@ -1,7 +1,6 @@
-<img align="centre" src="https://github.com/Psyhic/Psyhic/blob/master/bg%20cover.gif">
+<img align="centre" src="https://github.com/Psyhic/Psyhic/blob/master/cover.gif" width="950">
 
 ## I'm a CSE Student at Chandigarh University!
-<img align="right" src="https://github.com/Psyhic/Psyhic/blob/master/sk.gif" width="150" />
 
 - 🔭 I’m currently working on a AI Chatbot and personal Portfolio!
 - 🌱 I’m currently learning MERN Stack and also everything. 🤣
