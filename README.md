@@ -1,4 +1,4 @@
-<img align="centre" src="https://github.com/Psyhic/Psyhic/blob/master/cover.gif" width="950">
+<img align="centre" src="https://github.com/Psyhic/Psyhic/blob/master/cover.gif" width="850">
 
 ## I'm a CSE Student at Chandigarh University!
 
