@@ -36,10 +36,13 @@
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 
 <br />
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Psyhic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Psyhic&show_icons=true&hide_border=true" />
+  <img align="left" alt="Psyhic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Psyhic&show_icons=true&theme=dark&hide_border=true" />
 
 </details>
 
