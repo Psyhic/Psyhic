@@ -1,5 +1,4 @@
-<img align="centre" src="https://github.com/Psyhic/Psyhic/blob/master/cover.gif" width="850">
-
+# Hola Amigos ,
 ## I'm a CSE Student at Chandigarh University!
 
 - 🔭 I’m currently working on a AI Chatbot and personal Portfolio!
