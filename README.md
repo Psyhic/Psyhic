@@ -39,12 +39,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Psyhic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Psyhic&show_icons=true&theme=dark&hide_border=true" />
-
-</details>
 
 
 
