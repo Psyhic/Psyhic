@@ -7,7 +7,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to Travel, eat lots of food and play some games.
 
-</br>
 
 ### Connect with me:
 
