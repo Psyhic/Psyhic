@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences my - [Resume](https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing)
 
-- ⚡ Fun fact **I want to travel a lot.**
+- ⚡ Fun fact **I love to travel a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
