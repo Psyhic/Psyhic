@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h3 align="center">A passionate Web developer / Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer / Web Developer / Web Designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyhic&label=Profile%20views&color=01DFD7&style=flat" alt="psyhic" /> </p>
 
