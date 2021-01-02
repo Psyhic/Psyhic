@@ -1,31 +1,34 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h3 align="center">A passionate Software Engineer / Web Developer / Web Designer from India</h3>
+<h3 align="center">A passionate Web developer / Software Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=psyhic&label=Profile%20views&color=01DFD7&style=flat" alt="psyhic" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=psyhic&label=Profile%20views&color=0e75b6&style=flat" alt="psyhic" /> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Flutter and MERN Stack**
 
-- 👯 I’m looking to collaborate on **Web Design**
+- 👯 I’m looking to collaborate on **Flutter Development**
 
 - 🤝 I’m looking for help with **Dart**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Psyhic](https://github.com/Psyhic)
 
+- 📝 I regulary write articles on [https://sahil-skr18.medium.com/](https://sahil-skr18.medium.com/)
+
 - 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/psyhic/**
 
-- 📄 Know about my experiences my - [Resume](https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing](https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing)
 
-- ⚡ Fun fact **I love to travel a lot.** 
+- ⚡ Fun fact **I want to travel a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/psyhic_sk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="psyhic_sk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/psyhic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="psyhic" height="30" width="40" /></a>
 <a href="https://instagram.com/psyhic.sk" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="psyhic.sk" height="30" width="40" /></a>
+<a href="https://medium.com/@sahil-skr18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@sahil-skr18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
