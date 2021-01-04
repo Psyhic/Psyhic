@@ -25,6 +25,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+[CSE Student Journey : Expectations vs Reality](https://sahil-skr18.medium.com/computer-science-engineering-student-journey-expectation-vs-reality-b63ed1bdb699)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
