@@ -11,15 +11,15 @@
 
 - 🤝 I’m looking for help with **Dart**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Psyhic](https://github.com/Psyhic)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://psyhic.github.io/portfolio/)
 
-- 📝 I regulary write articles on [https://sahil-skr18.medium.com/](https://sahil-skr18.medium.com/)
+- 📝 I regulary write articles on [Medium](https://sahil-skr18.medium.com/)
 
 - 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/psyhic/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing](https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing)
+- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing)
 
 - ⚡ Fun fact **I want to travel a lot.**
 
