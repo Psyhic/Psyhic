@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/psyhic/**
 
-- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1cWYPrAePJGq0-Es107b5Hwwrj4Atl4md/view?usp=sharing)
+- 📄 Know about my experiences [Here's my Resume](https://drive.google.com/file/d/1QUyIw_pvGs-1pX5Ylo2VDVRyWB-mk4p8/view?usp=sharing)
 
 - ⚡ Fun fact **I want to travel a lot.**
 
