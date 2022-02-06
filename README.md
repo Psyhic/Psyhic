@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
-<h3 align="center">A passionate Web developer / Software Engineer from India</h3>
+<h3 align="center">A passionate CS Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psyhic&label=Profile%20views&color=0e75b6&style=flat" alt="psyhic" /> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Software Development**
 
-- 🌱 I’m currently learning **Flutter and MERN Stack**
+- 🌱 I’m currently learning **Cloud**
 
-- 👯 I’m looking to collaborate on **Flutter Development**
+- 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Dart**
+- 🤝 I’m looking for help with **Azure**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://psyhic.github.io/portfolio/)
 
 - 📝 I regulary write articles on [Medium](https://sahil-skr18.medium.com/)
-
-- 💬 Ask me about **React, Java**
 
 - 📫 How to reach me **https://www.linkedin.com/in/psyhic/**
 
